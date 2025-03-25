@@ -1,0 +1,57 @@
+# ========== Unity 필수 무시 항목 ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# ========== Visual Studio / Rider / VSCode 관련 무시 ==========
+.vs/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.user
+*.userprefs
+*.unityproj
+
+# ========== MacOS, Windows, Linux 시스템 파일 ==========
+.DS_Store
+Thumbs.db
+
+# ========== 빌드 출력 관련 ==========
+*.apk
+*.aab
+*.exe
+*.app
+*.zip
+
+# ========== 유니티 캐시나 불필요한 에디터 파일 ==========
+*.unitypackage
+*.lock
+*.swp
+
+# ========== Crash/Profiler/Reports ==========
+sysinfo.txt
+crashinfo.log
+
+# ========== Auto-generated / Unnecessary settings ==========
+*.bak
+*.orig
+*.patch
+*.diff
+
+# ========== Git Ignore 설정 파일 자체에 대한 제외 ==========
+!.gitignore
+
+# ========== Git LFS 사용 시 관리 제외 큰 파일 추가 가능 ==========
+# *.psd
+# *.wav
+# *.fbx
+
+# ========== 기타: 추적 금지할 개인 설정 ==========
+*.local
+*.key
+*.pem
