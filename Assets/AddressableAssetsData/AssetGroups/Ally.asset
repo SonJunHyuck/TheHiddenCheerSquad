@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Ally
+  m_EditorClassIdentifier: 
+  m_GroupName: Ally
+  m_GUID: cd0ad4f6fd0934fafab10e7d42f13105
+  m_SerializeEntries:
+  - m_GUID: 14bb57c934b7b4598bd161a878e5de09
+    m_Address: 07_MageIce
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ally
+    - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bfeb7472e8ca4f3ea7fd9c35c5cbee5
+    m_Address: 06_MageFire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ally
+    - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dfbd41c3e90c45d28762adc324181a0
+    m_Address: 05_AxeMan
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ally
+    - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 521b73dee030448fea899c68f6b624e1
+    m_Address: 08_Knight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ally
+    - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c2802cfd21c84d169108b89334f4898
+    m_Address: 09_Cavarly
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ally
+    - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae151323d2c8944279497e760a5a9df7
+    m_Address: 03_HammerMan
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ally
+    - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2518ae35df814768a6414e73f8861c8
+    m_Address: 04_Rogue
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ally
+    - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2bf2221fef4244d78fc4ec2c9f4becd
+    m_Address: 02_Archer
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ally
+    - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f6c311cd799aa4828a8492f7c5d9ac08
+    m_Address: 01_SwordMan
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Ally
+    - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0c4887a0835114400a03445c5e1bed09, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1e1592ff680824968a0f4192fa2a9ad2, type: 2}
+    - {fileID: 11400000, guid: d1eb6f7028a1748e1a046e7dab0196eb, type: 2}

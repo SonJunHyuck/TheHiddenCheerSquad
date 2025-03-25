@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SO
+  m_EditorClassIdentifier: 
+  m_GroupName: SO
+  m_GUID: bab676240540e485c83779c9e11cfd77
+  m_SerializeEntries:
+  - m_GUID: 2d311c2516bf8487f8750a0e0378cb89
+    m_Address: UnitGradeScriptableObject
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InfoData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60c60225b096744458e5ca5252e11ec6
+    m_Address: LoadingMessageScriptableObject
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InfoData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d6a2c027cbbc48eeb636398e5e38dd1
+    m_Address: EnemySpawnRule
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InfoData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 990c3a923215e4464bd1706384f3285c
+    m_Address: StageData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InfoData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf8dc3de3772144748d842d18e9d68f7
+    m_Address: UnitInfoScriptableObject
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InfoData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3efdcbcc332e401eb8234b4ce86652a
+    m_Address: EnemyInfo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - InfoData
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0c4887a0835114400a03445c5e1bed09, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 10cd0a724db59474b89f1d5352719720, type: 2}
+    - {fileID: 11400000, guid: c212fef905e2b49d0856fe2f3fed027c, type: 2}
