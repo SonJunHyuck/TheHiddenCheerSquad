@@ -15,6 +15,12 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: e61fdf4fa930e44a5a8ba130b5ab6a54
   m_SerializeEntries:
+  - m_GUID: 9a88af41c9e414d9892b9d5fa0c8065d
+    m_Address: ProjectileArrow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Projectile
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: c4cd453746a54438d8364fd62952594d
     m_Address: UndeadAxeMan
     m_ReadOnly: 0

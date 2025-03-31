@@ -21,6 +21,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - Sfx
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a072f81681472452bbd86a7af857bc65
+    m_Address: SfxArrowShoot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sfx
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bf71de1fa6cdf47adaf1452a4da60966
     m_Address: SfxError
     m_ReadOnly: 0
