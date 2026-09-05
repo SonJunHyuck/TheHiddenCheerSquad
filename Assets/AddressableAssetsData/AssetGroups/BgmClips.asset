@@ -14,27 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: BgmClips
   m_GUID: 50ea65a6f2e754bf9bbd7297407f9e4a
-  m_SerializeEntries:
-  - m_GUID: 5f08d8ce8c5d643cf88605a62257e341
-    m_Address: BgmForest
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - bgm
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: aee45dd28868e4bd888722e9b20192f9
-    m_Address: BgmTitle
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - bgm
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e858bf3acefd54c2badfdabef20e076d
-    m_Address: BgmReady
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - bgm
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 4071d3def9e9e439299595d8a88f1b37, type: 2}
+  m_Settings: {fileID: 11400000, guid: 0c4887a0835114400a03445c5e1bed09, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: fd8cedd450cad4878aba29858a900c24, type: 2}
