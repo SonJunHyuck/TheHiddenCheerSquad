@@ -3745,7 +3745,7 @@ GameObject:
   - component: {fileID: -7281115477811757768}
   - component: {fileID: 5073065644229597445}
   m_Layer: 7
-  m_Name: 09_Cavarly
+  m_Name: 09_Cavalry
   m_TagString: Unit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

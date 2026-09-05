@@ -44,7 +44,7 @@ MonoBehaviour:
     - Unit
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8c2802cfd21c84d169108b89334f4898
-    m_Address: 09_Cavarly
+    m_Address: 09_Cavalry
     m_ReadOnly: 0
     m_SerializedLabels:
     - Ally
