@@ -16,7 +16,7 @@ MonoBehaviour:
   m_GUID: e61fdf4fa930e44a5a8ba130b5ab6a54
   m_SerializeEntries:
   - m_GUID: 0ba057f5c89f0464d87ddfcc9bd61f0c
-    m_Address: Assets/AddressableAssets/Effect/GrenadeExplosionFire.prefab
+    m_Address: EffectFire
     m_ReadOnly: 0
     m_SerializedLabels:
     - Effect
@@ -34,7 +34,7 @@ MonoBehaviour:
     - Sfx
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 79c3cb7a26813d146b07c293b0324039
-    m_Address: etfx_explosion_grenade
+    m_Address: SfxExplosion
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sfx
@@ -72,7 +72,7 @@ MonoBehaviour:
     - Unit
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: df0ec39bb7429284fb2f1c3413e68098
-    m_Address: etfx_explosion_frost
+    m_Address: SfxNuke
     m_ReadOnly: 0
     m_SerializedLabels:
     - Sfx
