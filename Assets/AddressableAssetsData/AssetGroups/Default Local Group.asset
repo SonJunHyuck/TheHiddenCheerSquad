@@ -15,6 +15,42 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_GUID: e61fdf4fa930e44a5a8ba130b5ab6a54
   m_SerializeEntries:
+  - m_GUID: 0ba057f5c89f0464d87ddfcc9bd61f0c
+    m_Address: Assets/AddressableAssets/Effect/GrenadeExplosionFire.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Effect
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5289c026423334543aa68e43a85a8d48
+    m_Address: ProjectileArcFire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Projectile
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78c1c4dd7e76e0944aa2ce64e5aca494
+    m_Address: etfx_explosion_magic2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sfx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79c3cb7a26813d146b07c293b0324039
+    m_Address: etfx_explosion_grenade
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sfx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dfcae34791b3a447b81d6653208f596
+    m_Address: etfx_explosion_rocket
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sfx
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91d1fae541dee604c856374eaf1c62c8
+    m_Address: ProjectileLineIce
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Projectile
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9a88af41c9e414d9892b9d5fa0c8065d
     m_Address: ProjectileArrow
     m_ReadOnly: 0
@@ -35,12 +71,24 @@ MonoBehaviour:
     - Enemy
     - Unit
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df0ec39bb7429284fb2f1c3413e68098
+    m_Address: etfx_explosion_frost
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Sfx
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f28320a77b9fa4c51b4ad772011558bf
     m_Address: UndeadSwordMan
     m_ReadOnly: 0
     m_SerializedLabels:
     - Enemy
     - Unit
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4c1f6aac207476419ee851c18f5298e
+    m_Address: EffectIce
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Effect
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 0c4887a0835114400a03445c5e1bed09, type: 2}
