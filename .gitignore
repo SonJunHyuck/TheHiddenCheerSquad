@@ -51,6 +51,10 @@ crashinfo.log
 # *.wav
 # *.fbx
 
+# ========== Third-party assets ==========
+/Assets/Epic Toon Fx.meta
+/Assets/Epic Toon FX/
+
 # ========== 기타: 추적 금지할 개인 설정 ==========
 *.local
 *.key
