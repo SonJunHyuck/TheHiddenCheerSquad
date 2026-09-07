@@ -11,7 +11,7 @@ public class ButtonResultConfirm : MonoBehaviour
         {
             Resources.UnloadUnusedAssets();
 
-            LoadSceneManager.Instance.LoadScene("ReadyScene");
+            LoadSceneManager.Instance.LoadScene("MainMenu");
             // SceneManager.LoadScene("ReadyScene", LoadSceneMode.Single);
         });
     }
