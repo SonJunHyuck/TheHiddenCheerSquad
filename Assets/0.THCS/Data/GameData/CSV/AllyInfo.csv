@@ -1,0 +1,10 @@
+Key,Name,Desc,cost
+01_SwordMan,SwordMan,This Unit is SwordMan,10
+02_Archer,Archer,This Unit is Archer,20
+03_HammerMan,HammerMan,This Unit is HammerMan,40
+04_Rogue,Rogue,This Unit is Rogue,30
+05_AxeMan,AxeMan,This Unit is AxeMan,50
+06_MageFire,MageFire,This Unit is MageFire,100
+07_MageIce,MageIce,This Unit is MageIce,100
+08_Knight,Knight,This Unit is Knight,120
+09_Cavalry,Cavalry,This Unit is Cavalry,150
